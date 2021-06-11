@@ -1,11 +1,11 @@
 {
- "name": "LILY",
- "website": "https://www.lilytokensss.com",
- "description": "LILY",
- "explorer": "https://hecoinfo.com/token/0xd029E2146B64e8d08eE7A1f794F8Bcb9d387E54a",
+ "name": "UnioLotto",
+ "website": "-",
+ "description": "UnioLotto",
+ "explorer": "https://hecoinfo.com/token/0x5E6f02736fa6E8CDa42ce322c968A804797E764B",
  "type": "IERC20",
- "symbol": "LILY",
- "decimals": 18,
+ "symbol": "UL",
+ "decimals": 9,
  "status": "active",
- "id": "0xd029E2146B64e8d08eE7A1f794F8Bcb9d387E54a"
+ "id": "0x5E6f02736fa6E8CDa42ce322c968A804797E764B"
 }
